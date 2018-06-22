@@ -5,7 +5,7 @@ This example code provide basic integration for Aframe WebVR application into Co
 
 Follow the complete tutorial on my blog : 
 
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot.png)
 
 
 Disclaimer on the WebVR app used in this example :
